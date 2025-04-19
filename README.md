@@ -1,3 +1,5 @@
+![Sine Visualizer](image.png)
 # Trigonometric Functions Visualizer
 
-![Sine Visualizer](image.png)
+Little fun project used to perform visualizations of the sine wave, inspired by Chris Canvas Courses!
+
